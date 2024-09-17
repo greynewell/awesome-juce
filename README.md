@@ -391,6 +391,8 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[rave_vst](https://github.com/acids-ircam/rave_vst) <br/> <sup>by [acids-ircam](https://github.com/acids-ircam)</sup> | Realtime Audio Variational autoEncoder (RAVE) packaged as a vst| other|186| 1 year<sub><sup>🟠</sup></sub>|
 |[micro-tcn](https://github.com/csteinmetz1/micro-tcn) <br/> <sup>by [csteinmetz1](https://github.com/csteinmetz1)</sup> | Efficient real-time modeling of analog dynamic range compression| Apache-2.0|148| 2 years<sub><sup>🟠</sup></sub>|
 |[TensorFlowVST](https://github.com/Cyril-Meyer/TensorFlowVST) <br/> <sup>by [Cyril-Meyer](https://github.com/Cyril-Meyer)</sup> | Example of using a TensorFlow Keras model in a VST| |13| 3 years<sub><sup>🔴</sup></sub>|
+|[musegpt](https://github.com/greynewell/musegpt) <br/> <sup>by [Grey Newell](https://github.com/greynewell)</sup> | Example of using a Local language model in VST, AU, AAX with llama.cpp| |25| 1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
+
 
 ## Hardware
 
